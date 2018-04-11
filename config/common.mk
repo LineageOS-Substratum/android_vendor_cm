@@ -137,6 +137,7 @@ PRODUCT_PACKAGES += \
     Jelly \
     Lawnchair \
     LockClock \
+    MiXplorer \
     RetroMusic \
     ThemeInterfacer \
     Trebuchet \
